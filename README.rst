@@ -16,4 +16,4 @@ environment variables
 Then run the following commands to bootstrap your environment ::
 
     pipenv install
-    flask run
+    pipenv run flask run
