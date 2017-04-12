@@ -1,0 +1,70 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {},
+        "hash": {
+            "sha256": "ab5336c692a8d48a3188daf5049e3ed70795836d6d9da6b4029c35557e77e781"
+        }
+    },
+    "default": {
+        "graphene": {
+            "hash": "sha256:85cf1f0646562d7b66e8511ce8814828675299d6c7cafb666e4bfea2c7a6af4b",
+            "version": "==1.3"
+        },
+        "graphql-core": {
+            "hash": "sha256:1f5c43afb55c096572854116d7d86cb84a97c7ac30b173018879ea21c591de4a",
+            "version": "==1.0.1"
+        },
+        "graphql-relay": {
+            "hash": "sha256:2716b7245d97091af21abf096fabafac576905096d21ba7118fba722596f65db",
+            "version": "==0.4.5"
+        },
+        "promise": {
+            "hash": "sha256:c18c66b506e7d896d80a87344d3fb3653a491cd1cb948abca705730044ee3824",
+            "version": "==1.0.1"
+        },
+        "six": {
+            "hash": "sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1",
+            "version": "==1.10.0"
+        },
+        "typing": {
+            "hash": "sha256:c36dec260238e7464213dcd50d4b5ef63a507972f5780652e835d0228d0edace",
+            "version": "==3.6.1"
+        }
+    },
+    "develop": {
+        "appdirs": {
+            "hash": "sha256:d8b24664561d0d34ddfaec54636d502d7cea6e29c3eaf68f3df6180863e2166e",
+            "version": "==1.4.3"
+        },
+        "packaging": {
+            "hash": "sha256:99276dc6e3a7851f32027a68f1095cd3f77c148091b092ea867a351811cfe388",
+            "version": "==16.8"
+        },
+        "py": {
+            "hash": "sha256:81b5e37db3cc1052de438375605fb5d3b3e97f950f415f9143f04697c684d7eb",
+            "version": "==1.4.33"
+        },
+        "pyparsing": {
+            "hash": "sha256:fee43f17a9c4087e7ed1605bd6df994c6173c1e977d7ade7b651292fab2bd010",
+            "version": "==2.2.0"
+        },
+        "pytest": {
+            "hash": "sha256:66f332ae62593b874a648b10a8cb106bfdacd2c6288ed7dec3713c3a808a6017",
+            "version": "==3.0.7"
+        },
+        "setuptools": {
+            "hash": "sha256:1f7aac8b778446406ec5dcd5cc9305b375e7935e38f2fd3b1b70168c21a079d0",
+            "version": "==34.4.1"
+        },
+        "six": {
+            "hash": "sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1",
+            "version": "==1.10.0"
+        }
+    }
+}
